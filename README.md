@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Tech that I know of...</h3>
+<h3 align="center">Tech that I know of... </h3>
 
 ###
 
